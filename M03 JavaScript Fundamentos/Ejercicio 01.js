@@ -1,4 +1,4 @@
-/*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
+l/*⚠️ NO MODIFIQUES EL NOMBRE DE LAS DECLARACIONES ⚠️*/
 /*1️⃣ EJERCICIO 01 1️⃣*/
 
 // En los siguientes ejercicios deberás reemplazar el valor null
